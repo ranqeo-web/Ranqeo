@@ -22,6 +22,6 @@ Start with the checklist in the /docs folder and work through each section. The 
 
 ## Why This Exists
 
-This framework is based on real-world implementation and ongoing SEO work across different industries.
+This framework is based on real-world implementation and [ongoing SEO work across different industries](https://ranqeo.com).
 
 If you're looking to apply a more structured approach to SEO, this is the same system we refine through our work at Ranqeo.
